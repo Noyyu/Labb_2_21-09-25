@@ -1,0 +1,14 @@
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\bin\Debug\net8.0\Labb_2_21-09-25.exe
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\bin\Debug\net8.0\Labb_2_21-09-25.deps.json
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\bin\Debug\net8.0\Labb_2_21-09-25.runtimeconfig.json
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\bin\Debug\net8.0\Labb_2_21-09-25.dll
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\bin\Debug\net8.0\Labb_2_21-09-25.pdb
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\Labb_2_21-09-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\Labb_2_21-09-25.AssemblyInfoInputs.cache
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\Labb_2_21-09-25.AssemblyInfo.cs
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\Labb_2_21-09-25.csproj.CoreCompileInputs.cache
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\Labb_2_21-09-25.dll
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\refint\Labb_2_21-09-25.dll
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\Labb_2_21-09-25.pdb
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\Labb_2_21-09-25.genruntimeconfig.cache
+C:\Users\Nikki\OneDrive\Skolprojekt\Repos\Labb_2_21-09-25\obj\Debug\net8.0\ref\Labb_2_21-09-25.dll
