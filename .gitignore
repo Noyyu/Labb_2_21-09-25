@@ -1,0 +1,54 @@
+# === Build / binärfiler ===
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# === Visual Studio / Rider / IDE-specifikt ===
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === Testresultat ===
+[Tt]est[Rr]esult*/
+*.coverage
+*.coveragexml
+
+# === Paket ===
+packages/
+*.nupkg
+*.snupkg
+
+# === Resurser / publiceringsmappar ===
+*.publish.xml
+*.publishsettings
+*.pubxml
+*.pubxml.user
+
+# === Andra filer att ignorera ===
+*.dbmdl
+*.bak
+*.swp
+*.tmp
+*.tmp_proj
+*.svclog
+*.scc
+*.vsidx
+
+# === OS-specifikt ===
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
