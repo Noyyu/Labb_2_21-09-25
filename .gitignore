@@ -14,11 +14,16 @@ x86/
 
 # === Visual Studio / Rider / IDE-specifikt ===
 .vs/
+.vscode/
 .idea/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+*.vsidx
+*.db
+*.cache
+.v17/
 
 # === Testresultat ===
 [Tt]est[Rr]esult*/
