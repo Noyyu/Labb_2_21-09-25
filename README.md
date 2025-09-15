@@ -8,7 +8,7 @@ Det finns tre svårighetsgrader och även ett alternativ för att skapa din egen
 - Visual Studio 2022 eller senare (valfritt)
 
 ## Köra programmet
-1. Klona repot: `git clone <repo-url>`
+1. Klona repot: `git clone https://github.com/Noyyu/Labb_2_21-09-25.git`
 2. Gå in i mappen: `cd Labb_2_21-09-25`
 3. Kör: `dotnet run`
 
